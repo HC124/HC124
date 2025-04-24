@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TAN HUI CHING</h1>
 <h3 align="center">Mobile Developer (Android &iOS) | Full Stack Developer | Computer Science Student @INTI International University</h3>
 
-- 📫 How to reach me **huichingtan24@gmail.com**
+- 📫 How to reach me **huichingtan1224@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/tan-hui-ching-157812267](www.linkedin.com/in/tan-hui-ching-157812267)
 
